@@ -6,7 +6,7 @@ As the author said:
 
 As you may know, GPT model uses tokens to predict words. Due to the lack of resources and data, this model do the same stages of GPT but on the character level not the tokens.
 
-The owner of this code is Andrej Karpathy, who is one of the most productive persons in the AI field.
+The owner of this code is [Andrej Karpathy](https://karpathy.ai/), who is one of the most productive persons in the AI field.
 
 Prerequisites:
 - [Bigram language model](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/#:~:text=A%20bigram%20language%20model%20is,in%20a%20text%20or%20sentence.).
